@@ -1,0 +1,10 @@
+{
+  "name": "colors",
+  "description": "Contains 148 colors",
+  "version": "0.0.1",
+  "author": "Rodrigo Oler <roodrigoprogrammer@gmail.com>",
+  "dependencies": {},
+  "license": "MIT",
+  "main": "src/color.js",
+  "repository": "https://github.com/rodrigooler/colors"
+}
